@@ -1,5 +1,5 @@
 # sham_1979
-assignments
+Recomendation Engine Project:
 This is a recommendation model for YouTube Videos. Data of a particular video (key words) was extracted fron YouTube API and was cleaned as required.
 After cleaning the description of the video was vectorised using TfIdf mechanism and a KNN algorithm was used to find the 20 most similar videos.
 A formula to calculate the rating based on views, likes and dislikes was formulated.
